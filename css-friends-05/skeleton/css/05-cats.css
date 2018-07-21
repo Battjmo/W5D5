@@ -1,0 +1,10 @@
+/* PHASE 5: Cats */
+
+.content-header {
+  height: 200px;
+  width: inherit;
+  overflow: hidden;
+  text-align: center;
+  position: absolute;
+}
+
